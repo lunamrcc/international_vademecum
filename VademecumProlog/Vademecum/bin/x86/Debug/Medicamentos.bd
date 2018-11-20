@@ -1,0 +1,31 @@
+medicina(contrex, gripe, mexico).
+medicina(jarabe, gripe, mexico).
+medicina(pastillas, tuberculosis, mexico).
+medicina(vacuna, hepatitis, mexico).
+medicina(pastillas, anemia, mexico).
+
+sintomas(tos, gripe).
+sintomas(dolorPecho, gripe).
+sintomas(mareos, gripe).
+sintomas(confusion, gripe).
+
+sintomas(desnutricion, anemia).
+sintomas(nauseas, anemia).
+sintomas(vomito, anemia).
+
+sintomas(tos, tuberculosis).
+sintomas(sudoracion, tuberculosis).
+
+sintomas(colorPielAmarillo, hepatitis).
+sintomas(diarrea, hepatitis).
+
+especialista(otorrino, gripe).
+especialista(nutriologo, anemia).
+especialista(doctorGeneral, tuberculosis).
+especialista(endocrinologo, hepatitis).
+
+receta(Medicina,Sintoma,Pais):-sintomas(Sintoma,Z), medicina(Medicina,Z,Pais).
+
+tipoEspecialista(Especialidad,Sintoma):- sintomas(Sintoma,Z), especialista(Especialidad,Z)
+
+meReseta(Esp,Medicina,Enfermedad,Pais):- medicina(Medicina,Enfermedad,Pais), sintomas(S,Enfermedad), especialista(Esp,S)

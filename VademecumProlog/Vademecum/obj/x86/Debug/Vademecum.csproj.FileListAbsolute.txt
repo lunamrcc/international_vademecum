@@ -1,0 +1,47 @@
+C:\Users\mluna\source\repos\Vademecum\Vademecum\bin\x86\Debug\Vademecum.exe.config
+C:\Users\mluna\source\repos\Vademecum\Vademecum\bin\x86\Debug\Vademecum.exe
+C:\Users\mluna\source\repos\Vademecum\Vademecum\bin\x86\Debug\Vademecum.pdb
+C:\Users\mluna\source\repos\Vademecum\Vademecum\obj\x86\Debug\Vademecum.Form1.resources
+C:\Users\mluna\source\repos\Vademecum\Vademecum\obj\x86\Debug\Vademecum.Properties.Resources.resources
+C:\Users\mluna\source\repos\Vademecum\Vademecum\obj\x86\Debug\Vademecum.csproj.GenerateResource.cache
+C:\Users\mluna\source\repos\Vademecum\Vademecum\obj\x86\Debug\Vademecum.csproj.CoreCompileInputs.cache
+C:\Users\mluna\source\repos\Vademecum\Vademecum\obj\x86\Debug\Vademecum.csproj.CopyComplete
+C:\Users\mluna\source\repos\Vademecum\Vademecum\obj\x86\Debug\Vademecum.exe
+C:\Users\mluna\source\repos\Vademecum\Vademecum\obj\x86\Debug\Vademecum.pdb
+C:\Users\mluna\source\repos\Vademecum\Vademecum\obj\x86\Debug\Vademecum.csprojAssemblyReference.cache
+C:\Users\mluna\source\repos\Vademecum\Vademecum\bin\x86\Debug\SwiPlCs.dll
+C:\Program Files (x86)\swipl\bin\Vademecum\Vademecum\bin\x86\Debug\Vademecum.exe.config
+C:\Program Files (x86)\swipl\bin\Vademecum\Vademecum\bin\x86\Debug\Vademecum.exe
+C:\Program Files (x86)\swipl\bin\Vademecum\Vademecum\bin\x86\Debug\Vademecum.pdb
+C:\Program Files (x86)\swipl\bin\Vademecum\Vademecum\obj\x86\Debug\Vademecum.csprojAssemblyReference.cache
+C:\Program Files (x86)\swipl\bin\Vademecum\Vademecum\obj\x86\Debug\Vademecum.Form1.resources
+C:\Program Files (x86)\swipl\bin\Vademecum\Vademecum\obj\x86\Debug\Vademecum.Properties.Resources.resources
+C:\Program Files (x86)\swipl\bin\Vademecum\Vademecum\obj\x86\Debug\Vademecum.csproj.GenerateResource.cache
+C:\Program Files (x86)\swipl\bin\Vademecum\Vademecum\obj\x86\Debug\Vademecum.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\swipl\bin\Vademecum\Vademecum\obj\x86\Debug\Vademecum.csproj.CopyComplete
+C:\Program Files (x86)\swipl\bin\Vademecum\Vademecum\obj\x86\Debug\Vademecum.exe
+C:\Program Files (x86)\swipl\bin\Vademecum\Vademecum\obj\x86\Debug\Vademecum.pdb
+C:\Program Files (x86)\swipl\bin\Vademecum\obj\x86\Debug\Vademecum.csprojAssemblyReference.cache
+C:\Program Files (x86)\swipl\bin\Vademecum\obj\x86\Debug\Vademecum.Form1.resources
+C:\Program Files (x86)\swipl\bin\Vademecum\obj\x86\Debug\Vademecum.csproj.GenerateResource.cache
+C:\Program Files (x86)\swipl\bin\Vademecum\obj\x86\Debug\Vademecum.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\swipl\bin\Vademecum\bin\x86\Debug\Vademecum.exe.config
+C:\Program Files (x86)\swipl\bin\Vademecum\bin\x86\Debug\Vademecum.exe
+C:\Program Files (x86)\swipl\bin\Vademecum\bin\x86\Debug\Vademecum.pdb
+C:\Program Files (x86)\swipl\bin\Vademecum\obj\x86\Debug\Vademecum.Properties.Resources.resources
+C:\Program Files (x86)\swipl\bin\Vademecum\obj\x86\Debug\Vademecum.csproj.CopyComplete
+C:\Program Files (x86)\swipl\bin\Vademecum\obj\x86\Debug\Vademecum.exe
+C:\Program Files (x86)\swipl\bin\Vademecum\obj\x86\Debug\Vademecum.pdb
+C:\XAMARIN\VademecumProlog\Vademecum\bin\x86\Debug\Vademecum.exe.config
+C:\XAMARIN\VademecumProlog\Vademecum\bin\x86\Debug\Vademecum.exe
+C:\XAMARIN\VademecumProlog\Vademecum\bin\x86\Debug\Vademecum.pdb
+C:\XAMARIN\VademecumProlog\Vademecum\obj\x86\Debug\Vademecum.csprojAssemblyReference.cache
+C:\XAMARIN\VademecumProlog\Vademecum\obj\x86\Debug\Vademecum.Form1.resources
+C:\XAMARIN\VademecumProlog\Vademecum\obj\x86\Debug\Vademecum.Properties.Resources.resources
+C:\XAMARIN\VademecumProlog\Vademecum\obj\x86\Debug\Vademecum.csproj.GenerateResource.cache
+C:\XAMARIN\VademecumProlog\Vademecum\obj\x86\Debug\Vademecum.csproj.CoreCompileInputs.cache
+C:\XAMARIN\VademecumProlog\Vademecum\obj\x86\Debug\Vademecum.csproj.CopyComplete
+C:\XAMARIN\VademecumProlog\Vademecum\obj\x86\Debug\Vademecum.exe
+C:\XAMARIN\VademecumProlog\Vademecum\obj\x86\Debug\Vademecum.pdb
+C:\XAMARIN\VademecumProlog\Vademecum\bin\x86\Debug\SwiPlCs.dll
+C:\XAMARIN\VademecumProlog\Vademecum\bin\x86\Debug\SwiPlCs.xml
